@@ -22,6 +22,12 @@ $ go mod init
 $ go run main.go
 ```
 
+## DevRun
+
+```shell
+$ make dev
+```
+
 ## Web Side
 
 ```shell
